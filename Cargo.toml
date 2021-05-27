@@ -1,0 +1,5 @@
+[package]
+name = "mod_ext"
+version = "0.1.0"
+authors = ["Kolsky <kolskytr@gmail.com>"]
+edition = "2018"
